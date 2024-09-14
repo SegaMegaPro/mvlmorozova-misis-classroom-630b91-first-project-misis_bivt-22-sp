@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6OB9WcGd)
 1) Настройка окружения (обязательно только для тех, кто пишет на JS).
 1.	Инициализируйте ваш npm-пакет внутри корневой директории проекта, используя команду npm init. При инициализации задайте имя пакета - @misis/code.
 2.	Создайте директорию bin и добавьте в неё файл menu-game.js.
