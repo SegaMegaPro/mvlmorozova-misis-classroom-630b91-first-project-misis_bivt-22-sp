@@ -1,0 +1,26 @@
+{
+  "name": "@misis/code",
+  "version": "1.0.0",
+  "description": "Ten Leonid",
+  "main": "menu-game.js",
+  "scripts": {
+    "test": "print('Hello World!')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvlmorozova-misis/first-project-SegaMegaPro.git"
+  },
+  "keywords": [
+    "MISIS"
+  ],
+  "author": "Ten Leonid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvlmorozova-misis/first-project-SegaMegaPro/issues"
+  },
+  "homepage": "https://github.com/mvlmorozova-misis/first-project-SegaMegaPro#readme",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/menu-game.js"
+  }
+}
