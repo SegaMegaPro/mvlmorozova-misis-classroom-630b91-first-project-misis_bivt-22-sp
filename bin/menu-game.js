@@ -1,3 +1,5 @@
 #!/usr/bin/env node
+import { askName, askGame } from '../src/cli.js';
 
-console.log('Choose the game!');
+const userName = askName();
+const game = askGame(userName);
