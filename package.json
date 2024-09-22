@@ -22,5 +22,8 @@
   "type": "module",
   "bin": {
     "brain-games": "bin/menu-game.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
